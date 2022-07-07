@@ -31,7 +31,7 @@
     transform: translate(-75px, -75px);
     position: absolute;
     border: 10px solid whitesmoke;
-    background-image: url('./nachiket-index/images//logo.png');
+    background-image: url('./images/logo.png');
     background-size: cover;
     background-position: center;
 }
@@ -116,37 +116,37 @@
 }
 
 #main1{
-    background-image: url('./nachiket-index/images//main1.png');
+    background-image: url('./images/main1.png');
     background-size: cover;
     background-position: center;
 }
 
 #left1{
-    background-image: url('./nachiket-index/images//left1.jpg');
+    background-image: url('./images/left1.jpg');
     background-size: cover;
     background-position: center;
 }
 
 #right1{
-    background-image: url('./nachiket-index/images//right1.jpg');
+    background-image: url('./images/right1.jpg');
     background-size: cover;
     background-position: center;
 }
 
 #main2{
-    background-image: url('./nachiket-index/images//main2.jpg');
+    background-image: url('./images/main2.jpg');
     background-size: cover;
     background-position: center;
 }
 
 #left2{
-    background-image: url('./nachiket-index/images//left2.webp');
+    background-image: url('./images/left2.webp');
     background-size: cover;
     background-position: center;
 }
 
 #right2{
-    background-image: url('./nachiket-index/images//right2.jpg');
+    background-image: url('./images/right2.jpg');
     background-size: cover;
     background-position: center;
 }
